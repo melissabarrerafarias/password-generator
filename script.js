@@ -18,7 +18,7 @@ function generatePassword() {
     characters = characters + lowercaseChar;
   }
   console.log(lowercase);
-
+ 
   // uppercase
   var uppercase = window.confirm("Do you want uppercases in your password?");
   if (uppercase) {
