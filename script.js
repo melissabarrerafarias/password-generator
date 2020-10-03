@@ -2,7 +2,7 @@
 var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
 var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numberChar = "1234567890";
-var specialChar = "!#%*";
+var specialChar = "!!!!$$$$######%%****^^^";
 function generatePassword() {
 
   // length
